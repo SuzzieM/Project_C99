@@ -1,0 +1,45 @@
+#body_background
+{
+    background-image: radial-gradient(lightblue, rgb(174, 174, 247), rgb(230, 241, 248) );
+}
+
+h1
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
+
+h4
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightcoral;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border-color: 3px solid darkblue;
+}
+
+#logo_img
+{
+    width: 100px;
+    border-radius: 70px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover
+{
+    border-radius: 100px;
+}
+
